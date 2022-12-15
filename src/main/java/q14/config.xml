@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<config>
+    <levelMessage>q14.CommonMessage</levelMessage>
+    <sendMethod>q14.EmailAdapter</sendMethod>
+</config>
