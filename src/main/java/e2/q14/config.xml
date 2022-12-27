@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<config>
+    <levelMessage>e2.q14.CommonMessage</levelMessage>
+    <sendMethod>e2.q14.EmailAdapter</sendMethod>
+</config>
